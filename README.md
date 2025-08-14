@@ -1,24 +1,19 @@
-# Python-Learning
-Learning Python — code snippets, exercises, and small projects from my practice journey
+# Python Learning Journey....
 
-# 📌 About This Repository
-This repo documents my journey of learning Python from scratch.  
-It contains hands-on exercises, algorithms, and mini projects to strengthen my programming logic.
+Welcome to my Python learning repository!  
+This repo contains my daily practice codes, exercises, and notes.  
 
-# 🗂 Topics Covered
-- Basics: Variables, Data Types, Input/Output
-- Control Flow: If-Else, Loops
-- Functions
-- Data Structures: Lists, Tuples, Sets, Dictionaries
-- File Handling
-- OOP in Python
-- Problem-Solving & DSA
+#📅 Progress Log
 
-# 📂 Projects (Ongoing)
-- Calculator App
-- To-Do List CLI
-- Number Guessing Game
+# Day 1 (14 Aug 2025)
 
-# 🚀 Goal
-To master Python fundamentals and apply them in backend development & full-stack projects.
+- Learned about Python variables, data types, and basic operators.
+- Practiced writing and running Python scripts.
+- Uploaded: `variable.py`, `data_types.py`, `operator.py`, `sample.py`
+
+
+
+
+
+
 
