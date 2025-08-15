@@ -11,6 +11,12 @@ This repo contains my daily practice codes, exercises, and notes.
 - Practiced writing and running Python scripts.
 - Uploaded: `variable.py`, `data_types.py`, `operator.py`, `sample.py`
 
+# Day 2 (15 Aug 2025)
+
+- Learned about if else, conditional statement,loop,string method.
+- Practiced question and running Python scripts.
+- Uploaded: `if_else.py`, `loops.py`, `statement.py`, `string.py`
+
 
 
 
