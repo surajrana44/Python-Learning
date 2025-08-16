@@ -17,6 +17,7 @@ This repo contains my daily practice codes, exercises, and notes.
 - Practiced question and running Python scripts.
 - Uploaded: `if_else.py`, `loops.py`, `statement.py`, `string.py`
 
+# Day 3 (16 Aug 2025)
 
 
 
