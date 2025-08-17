@@ -19,6 +19,10 @@ This repo contains my daily practice codes, exercises, and notes.
 
 # Day 3 (16 Aug 2025)
 
+- Learned about list, method of list, dictionary, method of dictionary.
+- Practiced question and running Python scripts.
+- Uploaded: `list_method.py`, `dictionary.py`, `method_dictionary.py`
+
 
 
 
