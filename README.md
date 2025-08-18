@@ -24,6 +24,11 @@ This repo contains my daily practice codes, exercises, and notes.
 - Uploaded: `list_method.py`, `dictionary.py`, `method_dictionary.py`
 
 
+# Day 4 (17 Aug 2025)
+
+- Learned about function, oops (classes & objects , inheritance, encapsulation).
+- Practiced question and running Python scripts.
+- Uploaded: `functions.py`, `oops_1.py`,`oops_2.py`,`oops_3.py`.
 
 
 
