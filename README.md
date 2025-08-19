@@ -30,6 +30,10 @@ This repo contains my daily practice codes, exercises, and notes.
 - Practiced question and running Python scripts.
 - Uploaded: `functions.py`, `oops_1.py`,`oops_2.py`,`oops_3.py`.
 
+# Day 4 (18 Aug 2025)
 
+- Learned about abtraction, exception handling, file handling.
+- Practiced question and running Python scripts.
+- Uploaded: `oops_4.py`, `exception_handling.py`,`error.py`,`file_handling.py`.
 
 
